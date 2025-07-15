@@ -43,6 +43,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/atul-gupta-java)
 - 💻 [GitHub](https://github.com/Atul-op)
+- 🧠 LeetCode: [leetcode.com/u/Atul2402/](https://leetcode.com/u/Atul2402/)
 - 📬 Email: `gatul755@gmail.com`
 
 ---
