@@ -26,7 +26,7 @@
 > Interactive grid-based pathfinding application. Lets users draw obstacles, set start/end points, and visualize all valid paths using backtracking.  
 > 💡 Highlights: 50×50 customizable maze, real-time solution visualization, shortest path tracing
 
-### 🖼️ [JDBC Image Manager](https://github.com/Atul-op/JDBC-Image-Manager)
+### 🖼️ [JDBC Image Manager](https://github.com/Atul-op/JDBC-Based-Image-Manager)
 > A Java GUI app to insert and retrieve images from a MySQL database using JDBC. Supports image preview and ID-based fetch with BLOB handling.  
 > 💡 Highlights: MySQL integration, file I/O, Swing UI, database connectivity
 
@@ -41,7 +41,7 @@
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/atulgupta-java)
+- 💼 [LinkedIn](https://www.linkedin.com/in/atul-gupta-java)
 - 💻 [GitHub](https://github.com/Atul-op)
 - 📬 Email: `gatul755@gmail.com`
 
